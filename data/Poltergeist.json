@@ -1,13 +1,13 @@
 {
     "id": 7054561,
     "name": "Poltergeist",
-    "author": "AndromedaGMD",
-    "percentToQualify": 65,
-
-    "records": [2
+    "author": "Woogi",
+    "percentToQualify": "65",
+    "password": "Free Copy",
+    "records": [
         {
             "user": "Liam43",
-            "link": "https://youtu.be/IelG5yHiVd4?si=4l8fTrKlazfKROsq",
+            "link": "https://youtu.be/IelG5yHiVd4?si=MEoz1a_XZY4LwbVg",
             "percent": 100,
             "hz": 240
         },
