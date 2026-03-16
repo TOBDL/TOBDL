@@ -1,18 +1,15 @@
 {
-    "id": 57436521,
+    "id": 7054561,
     "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
-    "records": [
+    "author": "AndromedaGMD",
+    "percentToQualify": 65,
+
+    "records": [2
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Liam43",
+            "link": "https://youtu.be/IelG5yHiVd4?si=4l8fTrKlazfKROsq",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         }
     ]
 }
