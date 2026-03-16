@@ -1,24 +1,20 @@
 {
-    "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "id": 4957691,
+    "name": "Windy_Landscape",
+    "author": "Woogi",
+    "percentToQualify": "68",
+    "password": "Free Copy",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Liam43",
+            "link": "https://youtu.be/t2prFVlVnCk?si=VDqT0MXfsFk_jmTo",
             "percent": 100,
-            "hz": 360
+            "hz": 240
         },
         {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Vortexshark",
             "percent": 100,
-            "hz": 120
+            "hz": 200
         }
     ]
 }
