@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sweater Weather",
+    "author": "Vel",
+    "video": "https://youtu.be/sVjC-qvuSTc?si=jD9Tpkw1_1eZacyP",
+    "difficulty": 1,
+    "levelID": 81148582
+  },
+  {
+    "name": "Poltergeist",
+    "author": "AndromedaGMD",
+    "video": "https://youtu.be/63sr55FXqsI?si=c7oJ_cg3PhtDLRvU",
+    "difficulty": 2,
+    "levelID": 7054561
+  },
+  {
+    "name": "Windy Landscape",
+    "author": "AndromedaGMD",
+    "video": "https://youtu.be/hTX0Ch5bgMw?si=geE7Z8mTp4GjpVR8",
+    "difficulty": 3,
+    "levelID": 4957691
+  }
+]
