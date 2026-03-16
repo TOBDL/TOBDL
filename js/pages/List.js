@@ -25,7 +25,7 @@ export default {
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
-                            <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-if="i + 1 <= 50" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
@@ -98,7 +98,13 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Things To Know</h3>
+                    <p>
+                    This list is just for our gc, if you aint in it, feel free to look but you can't submit a completion
+                    </p>
+                    <p>
+                        Submit the completions through the gc, the button dont work 
+                    </p>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
