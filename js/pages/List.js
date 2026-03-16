@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Things To Know</h3>
                     <p>
-                    This list is just for our gc, if you aint in it, feel free to look but you can't submit a completion
+                        This list is just for our gc, if you aint in it, feel free to look but you can't submit a completion
                     </p>
                     <p>
                         Submit the completions through the gc, the button dont work 
