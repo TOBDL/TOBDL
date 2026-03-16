@@ -6,5 +6,12 @@
     "percentToQualify": "63",
     "password": "Free To Copy",
     "records": [1
+    {
+            "user": "Liam43",
+            "link": "https://youtu.be/xtQGnXtnzqk?si=r3-xi6JWLHyb13C4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
+}
 }
